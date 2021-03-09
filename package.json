@@ -1,6 +1,6 @@
 {
   "name": "mongodb-migrate",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Migration framework for mongo in node",
   "keywords": [
     "mongo",
@@ -16,7 +16,7 @@
     "url": "git://github.com/afloyd/mongo-migrate"
   },
   "dependencies": {
-    "mongodb": "3.3.4",
+    "mongodb": "3.6.4",
     "verror": "^1.6.0"
   },
   "main": "index",
